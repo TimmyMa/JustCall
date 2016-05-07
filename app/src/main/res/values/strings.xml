@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Call</string>
+    <string name="textview_phone_number">Phone Number</string>
+    <string name="hint_for_edittext_phone_number">What phone number you want to dial?</string>
+    <string name="textview_dial_times">Dial Times</string>
+    <string name="hint_for_edittext_dial_times">How many times you want to dial?</string>
+    <string name="button_start_dial">Start Dial</string>
+    <string name="button_stop_dial">Stop Dial</string>
+    <string name="alert_dialog_request_permission_msg">"Phone" permission needed.</string>
+    <string name="toast_permission_denied_msg">"Phone" permission denied.</string>
+    <string name="button_redialing">Redialing&#8230;</string>
+    <string name="button_redial_count_down">Redial in <xliff:g id="countDown">%1$s</xliff:g>s&#8230;</string>
+</resources>

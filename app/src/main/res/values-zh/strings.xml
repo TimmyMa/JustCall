@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Call</string>
+    <string name="textview_phone_number">电话号码</string>
+    <string name="hint_for_edittext_phone_number">您想拨打的电话？</string>
+    <string name="textview_dial_times">拨打次数</string>
+    <string name="hint_for_edittext_dial_times">您想重拨的次数？</string>
+    <string name="button_start_dial">开始重拨</string>
+    <string name="button_stop_dial">停止重拨</string>
+    <string name="alert_dialog_request_permission_msg">此程序需要"电话"权限。</string>
+    <string name="toast_permission_denied_msg">"电话"权限被拒绝。</string>
+    <string name="button_redialing">正在重拨&#8230;</string>
+    <string name="button_redial_count_down">将在<xliff:g id="countDown">%1$s</xliff:g>秒后重拨&#8230;</string>
+</resources>
